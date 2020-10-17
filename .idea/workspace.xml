@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb1e3c5-0385-45e8-97d1-4ad33b057640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layout/Alert.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/setAuthToken.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Login.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,9 @@
       <workItem from="1602528074886" duration="2583000" />
       <workItem from="1602530712440" duration="4060000" />
       <workItem from="1602589067406" duration="3024000" />
-      <workItem from="1602774393123" duration="7020000" />
+      <workItem from="1602774393123" duration="7088000" />
+      <workItem from="1602858858343" duration="11125000" />
+      <workItem from="1602934920871" duration="646000" />
     </task>
     <servers />
   </component>
