@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb1e3c5-0385-45e8-97d1-4ad33b057640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/post/CommentForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/post/CommentItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/posts/PostForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/posts/PostItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/posts/Posts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileAbout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileEducation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileExperience.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileGithub.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileTop.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profiles/ProfileItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/profiles/Profiles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/profile-forms/AddEducation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/profile-forms/AddEducation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/profile-forms/AddExperience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/profile-forms/AddExperience.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +73,7 @@
       <workItem from="1604341104803" duration="2239000" />
       <workItem from="1604943053129" duration="6673000" />
       <workItem from="1605284158987" duration="6816000" />
-      <workItem from="1605465526962" duration="598000" />
+      <workItem from="1605465526962" duration="1633000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://maabadot:maabadot@devconnector.n4qxo.mongodb.net/DevConnectorDB?retryWrites=true&w=majority",
-  "jwtSecret": "maabadotsecrettoken",
-  "githubClientId": "daeed8681a449e616fb3",
-  "githubClientSecret": "14f0063d18ea2335893c71a804779d23d1a22841"
-}
